@@ -1,0 +1,14 @@
+1,1,Vestel,manisa,R&D,software engineer,12.05.20,12.06.20
+1,2,Vestel,manisa,R&D,computer engineer,12.05.20,12.06.20
+2,3,Arçelik,istanbul,sales,sales consultant,12.05.20,12.06.20
+3,4,Vodafoneİzmir,izmir,R&D,software engineer,12.05.20,12.06.20
+4,5,vodafoneİstanbul,istanbul,R&D,software engineer,12.05.20,12.06.20
+5,6,migros,muğla,quality control,food engineer,12.05.20,12.06.20
+6,7,turkcell,aydın,R&D,software engineer,12.05.20,12.06.20
+7,8,doğuşOtomativ,bursa,R&D,automotive engineer,12.05.20,12.06.20
+8,9,turkishAirlines,ankara,,pilot,12.05.20,12.06.20
+8,10,turkishAirlines,ankara,law Department,lawyer,12.05.20,12.06.20
+9,11,cocoCola,istanbul,law Department,lawyer,12.05.20,12.06.20
+9,12,cocoCola,istanbul,sales control,industrial engineering,12.05.20,12.06.20
+10,13,petkim,izmir,quality control,petroleum engineer,12.05.20,12.06.20
+16,14,samsung,izmir,software,engineer,12.6.2020,24.7.2020

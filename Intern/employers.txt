@@ -1,0 +1,11 @@
+1,vestel,1234,vestel@gmail.com,manisa
+2,arçelik,12345,arcelik@gmail.com,istanbul
+3,vodafoneİzmir,vod123,voadfone@hotmail.com,izmir
+4,vodafoneİstanbul,vod345,vodafoneİstanbul@gmail.com,istanbul
+5,migros,mig678,migros@gmial.com,ankara
+6,turkcell,turkC123,turkcell@gmail.com,bursa
+7,doğuşOtomativ,,dogus@gmail.com,bursa
+8,turkishAirlines,air1234,air@gmail.com,istanbul
+9,cocoCola,1234,cola@gmail.com,istanbul
+10,petkim,12345,petkim@gmail.com,izmir
+16,samsung,1234,samsung@gmail.com,izmir

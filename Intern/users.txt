@@ -1,0 +1,16 @@
+employer,1,vestel,1234,vestel@gmail.com,manisa
+employer,2,arçelik,12345,arcelik@gmail.com,istanbul
+employer,3,vodafoneİzmir,vod123,voadfone@hotmail.com,izmir
+employer,4,vodafoneİstanbul,vod345,vodafoneİstanbul@gmail.com,istanbul
+employer,5,migros,mig678,migros@gmial.com,ankara
+employer,6,turkcell,turkC123,turkcell@gmail.com,bursa
+employer,7,doğuşOtomativ,,dogus@gmail.com,bursa
+employer,8,turkishAirlines,air1234,air@gmail.com,istanbul
+employer,9,cocoCola,1234,cola@gmail.com,istanbul
+employer,10,petkim,12345,petkim@gmail.com,izmir
+employee,11,yağızTansu,123456,yagiz@gmail.com,izmir
+employee,12,yağmurYeşilyurt,1234567,yagmur@gmail.com,izmir
+employee,13,ahmetVicir,ahmet123,ahmet@gmail.com,manisa
+employee,14,efeOytun,efe1234,efe@gmail.com,adana
+employee,15,mehmetMusaf,musaf123,mehmet@gmail.com,erzurum
+employer,16,samsung,1234,samsung@gmail.com,izmir

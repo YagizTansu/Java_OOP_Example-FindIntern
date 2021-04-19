@@ -1,0 +1,5 @@
+11,yağızTansu,*****,yagiz@gmail.com,izmir,ekonomi,software,3.0
+12,yağmurYeşilyurt,*****,yagmur@gmail.com,izmir,ekonomiUniversity,computer,3.2
+13,ahmetVicir,*****,ahmet@gmail.com,manisa,celalbayarUniversity,lawyer,2.6
+14,efeŞendil,*****,efe@gmail.com,adana,adanauniversity,architecht,1.8
+15,mehmetMusab,*****,mehmet@gmail.com,erzurum,anadoluUniversity,mechanical,3.7

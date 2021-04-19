@@ -1,0 +1,7 @@
+1,11,yağızTansu,*****,yagiz@gmail.com,izmir,ekonomi,software,3.0
+3,11,yağızTansu,*****,yagiz@gmail.com,izmir,ekonomi,software,3.0
+2,11,yağızTansu,*****,yagiz@gmail.com,izmir,ekonomi,software,3.0
+8,12,yağmurYeşilyurt,*****,yagmur@gmail.com,izmir,ekonomiUniversity,computer,3.2
+4,12,yağmurYeşilyurt,*****,yagmur@gmail.com,izmir,ekonomiUniversity,computer,3.2
+1,12,yağmurYeşilyurt,*****,yagmur@gmail.com,izmir,ekonomiUniversity,computer,3.2
+14,11,yağızTansu,*****,yagiz@gmail.com,izmir,ekonomi,software,3.0
